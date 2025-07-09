@@ -16,16 +16,16 @@ Data was sourced from NOAA's [National Centers for Environmental Information](ht
 
 - Dataset includes ~97,000 daily weather records from 11 South Carolina weather stations, Trained using (2000–2023) data, Tested with 2024 data.
 - Features selected were:
-Average Dew Point Temperature 
-Average Sea-Level Pressure 
-Average Station Pressure 
-Average Wet Bulb Temperature 
-Average Wind Speed 
-Average Relative Humidity 
-Snow Depth 
-Average Daily Temperature 
-Direction of the Fastest 2-minute Wind (in degrees) 
-Heavy Fog 
-Hail 
-Smoke or Haze 
+  - Average Dew Point Temperature 
+  - Average Sea-Level Pressure 
+  - Average Station Pressure 
+  - Average Wet Bulb Temperature 
+  - Average Wind Speed 
+  - Average Relative Humidity 
+  - Snow Depth 
+  - Average Daily Temperature 
+  - Direction of the Fastest 2-minute Wind (in degrees) 
+  - Heavy Fog 
+  - Hail 
+  - Smoke or Haze 
 
